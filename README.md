@@ -6,7 +6,7 @@
 
 React project I completed from Udemy: React - The Complete Guide 2023 (incl. React Router & Redux) by Maximilian Schwarzmuller. After coding this project I added some minor changes including responsive design mods for mobile devices. I also added comments for educational purposes.
 
-App can be run from: https://frank-pechar-react-investment-calculator.netlify.app/
+App can be run from: https://frank-pechar-react-invest-calculator.netlify.app/
 
 ## App Description
 
