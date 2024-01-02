@@ -27,5 +27,5 @@ Calculate and list investment return values for a given number of years
 - Two way binding of input fields
 - Lifting State Up to parent component
 - Use of state update function parameter within Set State Function to ensure most current state
-- Added table tow Keys for unique id
+- Added table row Keys for unique id
 - Basic event handling
